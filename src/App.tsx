@@ -1,5 +1,5 @@
-import ChartComponent1 from "./component/ChartComponent1";
+import ChartjsCustom from "./component/ChartjsCustom";
 
-const App = () => <ChartComponent1 />;
+const App = () => <ChartjsCustom />;
 
 export default App;
